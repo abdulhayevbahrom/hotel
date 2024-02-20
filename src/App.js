@@ -4,6 +4,7 @@ function App() {
   return (
     <div>
       <h1>appjs</h1>
+      <h1>ulugbek</h1>
     </div>
   );
 }
