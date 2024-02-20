@@ -4,6 +4,8 @@ function App() {
   return (
     <div>
       <h1>appjs</h1>
+      <h2>nodirbek</h2>
+      
     </div>
   );
 }
