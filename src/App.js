@@ -3,7 +3,7 @@ import React from "react";
 function App() {
   return (
     <div>
-      <h1>appjs</h1>
+      <h1>xudoyor</h1>
     </div>
   );
 }
